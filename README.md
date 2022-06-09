@@ -1,1 +1,1 @@
-# LSJ-Global.github.io
+# LSJ Global
